@@ -1,0 +1,13 @@
+{
+ "phien_ban": "5.3",
+ "ngay": "2026-11-24",
+ "tep": "cap-nhat/so-ke-toan-5.3.zip",
+ "sha256": "83be4486702d27d28134e9dc9f9a16754c5010b63977640e052772515b68d439",
+ "kich_thuoc": 196777,
+ "ghi_chu": [
+  "Có file cài đặt (SoKeToan-CaiDat.exe): bấm Next là xong, tự tạo biểu tượng trên Desktop và Start Menu, gỡ cài đặt không mất dữ liệu.",
+  "Tự cập nhật: ứng dụng báo khi có bản mới; vào Cài đặt chung → Cập nhật, bấm Cập nhật ngay. Máy tự sao lưu, cài, khởi động lại; dữ liệu và key giữ nguyên.",
+  "Bản cập nhật có chữ ký của nhà phát triển; bản không đúng chữ ký bị từ chối."
+ ],
+ "chu_ky": "r46IJli6emOfG2cPO5sd9qdPDUftlsImO-pZ6WafVQxyn-MAbfcH3-uSG0pHhBWyZNHf4XUJZH9x4wbsna6OLMShBQ8HdnFR13eUJEunV3s8xQMksAKufeEWJZ3VuzrNHuDkiJN3BCCrCIxK8WR2e7Fpjka-mNDG2HWx8-kKGjWEVKddlfk_vaH0_SD_R_gmj0OjLNhLwmxa3jQcD3bNFL9wOJ1DrAufEgpck2BGiH_petlhPzo4D7F8XNFXkPVT1QM3eaJdyPkkINXNTDPPXS5h_I8kqMaPDbiqbfuww8Uqs1Bwsr_QMrARNJ0ESKa5Tlb4lR2oVnBkmq3ypS0BZA"
+}
