@@ -1,13 +1,18 @@
 {
- "phien_ban": "5.3",
- "ngay": "2026-11-24",
- "tep": "cap-nhat/so-ke-toan-5.3.zip",
- "sha256": "83be4486702d27d28134e9dc9f9a16754c5010b63977640e052772515b68d439",
- "kich_thuoc": 196777,
+ "phien_ban": "5.4",
+ "ngay": "2026-11-25",
+ "tep": "cap-nhat/so-ke-toan-5.4.zip",
+ "sha256": "23f9e41c5b43333937c6003635ae1d4f4d884cdc3e4c3b074d0dde97b1df1db0",
+ "kich_thuoc": 271457,
  "ghi_chu": [
-  "Có file cài đặt (SoKeToan-CaiDat.exe): bấm Next là xong, tự tạo biểu tượng trên Desktop và Start Menu, gỡ cài đặt không mất dữ liệu.",
-  "Tự cập nhật: ứng dụng báo khi có bản mới; vào Cài đặt chung → Cập nhật, bấm Cập nhật ngay. Máy tự sao lưu, cài, khởi động lại; dữ liệu và key giữ nguyên.",
-  "Bản cập nhật có chữ ký của nhà phát triển; bản không đúng chữ ký bị từ chối."
+  "Tên mới iFix Kế toán. Giao diện theo phân hệ: mỗi phân hệ có sơ đồ quy trình; bảng điều khiển mới có chỉ số sức khỏe tài chính; nút Tạo mới và ô tìm kiếm trên thanh trên cùng.",
+  "Các gói bản quyền: Cơ bản, Đầy đủ, Nhiều công ty. Phân hệ ngoài gói được ẩn. Nâng gói hoặc gia hạn chỉ cần nhập key mới; key cũ vẫn dùng được.",
+  "Chọn chế độ kế toán cho từng công ty: TT133, TT99 (thay TT200), TT58 (doanh nghiệp siêu nhỏ), TT152 (hộ kinh doanh). Có Sổ theo thông tư (S1a-HKD..., S1-DNSN...) tự tính thuế theo tỷ lệ trên doanh thu, và báo cáo kết quả kinh doanh B02-DN.",
+  "Khế ước vay: lịch trả gốc, lãi; ghi sổ nhận tiền vay và từng kỳ trả; nhắc kỳ đến hạn.",
+  "Hợp đồng mua, bán: tự gắn hóa đơn theo hợp đồng, theo dõi số đã thanh toán, nhắc hợp đồng sắp hết hạn.",
+  "Giá thành: tập hợp chi phí theo công trình, sản phẩm, đơn hàng; phân bổ chi phí chung; thẻ tính giá thành; kết chuyển giá vốn.",
+  "Trợ lý AI (gói Đầy đủ): chọn Claude, ChatGPT, Gemini, DeepSeek bằng mã API riêng hoặc AI trên máy (Ollama, LM Studio); gợi ý tài khoản cho hóa đơn và sao kê; hỏi đáp tiếng Việt trên sổ; đọc hóa đơn PDF, ảnh; soát sổ trước khi khóa sổ; dự báo dòng tiền 3 tháng; soạn tin nhắc nợ.",
+  "Tải hóa đơn từ cổng thuế dùng địa chỉ mới của Tổng cục Thuế."
  ],
- "chu_ky": "r46IJli6emOfG2cPO5sd9qdPDUftlsImO-pZ6WafVQxyn-MAbfcH3-uSG0pHhBWyZNHf4XUJZH9x4wbsna6OLMShBQ8HdnFR13eUJEunV3s8xQMksAKufeEWJZ3VuzrNHuDkiJN3BCCrCIxK8WR2e7Fpjka-mNDG2HWx8-kKGjWEVKddlfk_vaH0_SD_R_gmj0OjLNhLwmxa3jQcD3bNFL9wOJ1DrAufEgpck2BGiH_petlhPzo4D7F8XNFXkPVT1QM3eaJdyPkkINXNTDPPXS5h_I8kqMaPDbiqbfuww8Uqs1Bwsr_QMrARNJ0ESKa5Tlb4lR2oVnBkmq3ypS0BZA"
+ "chu_ky": "PlivTh7WEvnlEMhwJ1qhdZ25E8rfq-sraDnHh-DwECBazqBLk5AJW9MDVn_Qwj6cQufVMRU97AKuF0SSbftvj93FoIx9EOwdG3Iqw1hnIPrsZ1PFNC4FWLLn3-13DrMYmaBHR6-7X5ywRWccHqD5QCGW6rsUWcobWWa7KmgA0S4oenPKCki4WO2QOtOSJW1qOo_0K4DTmUb0isGNFyD5SXhxYCwnLZoyNwm2YjV1oea3004RU8f1GaRI4oOl5N2HfMsMGJuKt6lWQxTjgooTJQMCFA-jnE3AGhDC6yK2OYs23YAKvfJBIxKATBpDLB7qwgC-QhnFcbylJ_RkW8PH1g"
 }
