@@ -1,14 +1,12 @@
 {
- "phien_ban": "5.4.4",
+ "phien_ban": "5.4.5",
  "ngay": "2026-11-27",
- "tep": "cap-nhat/so-ke-toan-5.4.4.zip",
- "sha256": "605b09d66ec5660a68f743ffbb0646005f89e71ba2842e8c60c98521958910cd",
- "kich_thuoc": 290430,
+ "tep": "cap-nhat/so-ke-toan-5.4.5.zip",
+ "sha256": "0f7318b408c5dae84515efc2f1afa7934b6764ef3819198c0eab19d3b61e56b3",
+ "kich_thuoc": 292683,
  "ghi_chu": [
-  "Tự tải hóa đơn từ cổng thuế mỗi ngày: bật ở trang Tải từ cổng thuế; hết phiên thì Việc cần làm nhắc đăng nhập.",
-  "Tự nhận ra dữ liệu của bản cũ (bản chạy từ thư mục, ví dụ ổ E) chưa chuyển sang bản cài: trang chủ báo, bấm Xem và chuyển sang.",
-  "Cài đặt chung → Chuyển dữ liệu bản cũ: chọn công ty cần chuyển. Gộp theo mã số thuế, công ty đã có chỉ thêm phần còn thiếu, không ghi đè; tự sao lưu trước khi chuyển; file cũ không bị sửa.",
-  "Sao lưu toàn bộ ra chỗ khác: gói hết dữ liệu (sổ mọi công ty, mẫu HTKK, file đã xuất, cài đặt, key) thành một file .zip, lưu vào thư mục tự chọn (USB, ổ D, Google Drive). Có nút Chọn thư mục…, máy nhớ thư mục cho lần sau."
+  "Gửi sổ một công ty sang máy khác: Cài đặt chung → Chuyển dữ liệu → Xuất riêng một công ty ra file .zip (không kèm công ty khác, không kèm key). Máy nhận chọn file .zip ở mục Nhập từ file, không cần giải nén.",
+  "Trang Hóa đơn mở sẵn năm có hóa đơn mới nhất (trước đây mở năm có chứng từ gần nhất, nên hóa đơn năm mới tải về chưa ghi sổ trông như trống)."
  ],
- "chu_ky": "ZM76rZ2-RSn6jXJXHnU3LPjj9XXN6jnGrzcDFUsD9tXs3J027v0OPC2odEtsx-aLTH7P2_CKq6vfm0rskhHhWdx40s-wonZlY9wmYLJu8MhKePCBXItBMTUQDsy_LvJgSHM3G46wKuOYj521m8SkkBIs3kACDyD3DqcPMDwxy-VU_wO0gCiJZGZYAwkjGxQvYvpIK3h3g8sLelHP84Dx0uUQGJJjpzUokEhupv9aV92bIMnaZaDmKLYwU7tDIGXWH8m8jm63xM6pjrHIFdtfi41nRdw4_2sCZpiTSV0PA4M33FQQyFB86lmfcyNduAmcPr9T1NBopEeZhqAqbQFZ7w"
+ "chu_ky": "ndDt0aEtl8Jn7tv1gT6qtiYoP3EdRV-3nLufQFo_L7q3FDFtqLXROmOqS7y-OHVIX64jmAq9OJbBTu23-do7FWmEOkB921qAC_enheeXSD8iivbRrP01klHBg2DVd13JCoJMEHvSSNWlr95nsKu5Waa2d8L4F8qYUJWw6-g-QDLHbSNzZQiMmzMoV3dA_nKiEKq7hbyDbtXKxu7FsvpYnonfT6K2vwr9v9VxpcYFOUh3dnHjr4nOgkA5yxcaQgGwdBJansFbVj6nwnQQR-yQ6DsAd2udjWmwhd6C4iZ8GuzZF2eCJUYIDa9c9PiT_tRMHvZquRxbuD6Lh_D4ZN_tQQ"
 }
