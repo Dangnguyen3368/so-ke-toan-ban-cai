@@ -1,12 +1,11 @@
 {
- "phien_ban": "5.4.2",
+ "phien_ban": "5.4.3",
  "ngay": "2026-11-27",
- "tep": "cap-nhat/so-ke-toan-5.4.2.zip",
- "sha256": "5e6177405ea8c101fac7a722642a9577debd78aa861b6f07c65ea9c323bdbfb6",
- "kich_thuoc": 274937,
+ "tep": "cap-nhat/so-ke-toan-5.4.3.zip",
+ "sha256": "08b84fc992b9e98139bd05249ddf4f569d213ed17c63c72262954094186cfa1a",
+ "kich_thuoc": 276056,
  "ghi_chu": [
-  "Tải hóa đơn từ cổng thuế: khi cổng báo tải quá nhiều (lỗi 429) máy tự chờ rồi tải tiếp, tải chậm lại cho khỏi bị chặn.",
-  "Hóa đơn đã có XML trong sổ thì không tải XML lại, lần tải sau nhanh hơn nhiều."
+  "Tải hóa đơn máy tính tiền từ cổng thuế ngay trong ứng dụng: gõ captcha, bấm Tải tháng này; xong máy tự chuyển sang tháng sau."
  ],
- "chu_ky": "Xv6UP3wx2_6foDpOOnVL4RishECCSXUMmm8xqh98Vf3L_wF1706fGUP5Mh6uFBrdNbKVl0-YCqX1enQZ3HN9a8jgcC65WH6BeJVytleK-enhQHPXiG79G07aw1h4nw_gBVW01RfchtCDUhYghGIsKfqW_scv_JmPCeU6rXHQ8Hj00uQUWD-HG6piyhpYubcX_YmFCStEqW9-bkQK18ks2oP6t0hj4cBGuH7QfG_RrcV4yocedVuruPc0YnqvuErpAdOmyi4ArLyJiJR7gA6LjGf-r8rIlOwKoBHLq4wVz1Pf1dy5Ul_MbYUVH7FYpg2FINZ1vhuo2928iVBqn9rNQQ"
+ "chu_ky": "GAFYSqR5UlYYF7VsM1CIrBL1DhJ06EI7sHzYZoeCMpMXeoeRSLUuVBHOED6xaW_p70Z5IMXMU7KLrIq6t55xWoosa_IUSgI_az0SJoJNi4Eo02IdKoAa050NTNy4vOiGsW9Tcrm9MnKbXN92_BChqAEmIvUNm2z-ybnUayQHDzkhRFoVFcgTS4ctF96vemMjXF8C3gS6_-2bCi984JJ4DnIaKVUXee1viS17EbHA9hPrLWm34MQ3gtSrq_AVkduQaBi4KgGjgotazG-hOMidhf8TOmCvHZvN2jmAMDVZA47qZxjRgJJSTNHWzqMtoqcDOdeHWt9VrGpWvMA3akCGoA"
 }
