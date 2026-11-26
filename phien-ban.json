@@ -1,12 +1,12 @@
 {
- "phien_ban": "5.4.1",
+ "phien_ban": "5.4.2",
  "ngay": "2026-11-27",
- "tep": "cap-nhat/so-ke-toan-5.4.1.zip",
- "sha256": "b558d794f1ba04109b855e4c6e24d50c88cdc72632bc0e7cdcc17dd3d9ac73e0",
- "kich_thuoc": 271841,
+ "tep": "cap-nhat/so-ke-toan-5.4.2.zip",
+ "sha256": "5e6177405ea8c101fac7a722642a9577debd78aa861b6f07c65ea9c323bdbfb6",
+ "kich_thuoc": 274937,
  "ghi_chu": [
-  "Sửa tải hóa đơn từ cổng thuế: dùng địa chỉ mới của cổng hoadondientu, hết lỗi \"Truy vấn không hợp lệ\".",
-  "Chọn ngày quá hôm nay thì tự lùi về hôm nay. Tháng nào cổng từ chối thì chỉ báo tháng đó, các tháng khác vẫn tải và lưu."
+  "Tải hóa đơn từ cổng thuế: khi cổng báo tải quá nhiều (lỗi 429) máy tự chờ rồi tải tiếp, tải chậm lại cho khỏi bị chặn.",
+  "Hóa đơn đã có XML trong sổ thì không tải XML lại, lần tải sau nhanh hơn nhiều."
  ],
- "chu_ky": "ebOWcpEnXPIciDpDpT9XbjwQWxTGgPq3rxNdlN-lzU-dxblMQh-Wynxrj8MJie8Cu8GjbhNEi9rnnaMd9gP-QlP-2SilJSi60glvjVshEMic4ahxkh9BjmaJKxdG-_mbJtOYsYnBpwJA7tk3syhwueAd3RPXcN1ZC1v3Fku53mtw5-gvC8DBdiqiw7W0eLTEAuHZS6LcDlh0YI7uY-UJoHf3waFaUax4W2drm4kUWqcKq1hp_jHH_CDiMPNXu3EGg789WP-vGNcBh5F7oWvw6r4AsNVBh59ZEvqPaZ32oia1Y9iSMJT2QECkJCkiWq9Kgr29mTH_REPYyULByCLL9w"
+ "chu_ky": "Xv6UP3wx2_6foDpOOnVL4RishECCSXUMmm8xqh98Vf3L_wF1706fGUP5Mh6uFBrdNbKVl0-YCqX1enQZ3HN9a8jgcC65WH6BeJVytleK-enhQHPXiG79G07aw1h4nw_gBVW01RfchtCDUhYghGIsKfqW_scv_JmPCeU6rXHQ8Hj00uQUWD-HG6piyhpYubcX_YmFCStEqW9-bkQK18ks2oP6t0hj4cBGuH7QfG_RrcV4yocedVuruPc0YnqvuErpAdOmyi4ArLyJiJR7gA6LjGf-r8rIlOwKoBHLq4wVz1Pf1dy5Ul_MbYUVH7FYpg2FINZ1vhuo2928iVBqn9rNQQ"
 }
