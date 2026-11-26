@@ -1,11 +1,14 @@
 {
- "phien_ban": "5.4.3",
+ "phien_ban": "5.4.4",
  "ngay": "2026-11-27",
- "tep": "cap-nhat/so-ke-toan-5.4.3.zip",
- "sha256": "08b84fc992b9e98139bd05249ddf4f569d213ed17c63c72262954094186cfa1a",
- "kich_thuoc": 276056,
+ "tep": "cap-nhat/so-ke-toan-5.4.4.zip",
+ "sha256": "605b09d66ec5660a68f743ffbb0646005f89e71ba2842e8c60c98521958910cd",
+ "kich_thuoc": 290430,
  "ghi_chu": [
-  "Tải hóa đơn máy tính tiền từ cổng thuế ngay trong ứng dụng: gõ captcha, bấm Tải tháng này; xong máy tự chuyển sang tháng sau."
+  "Tự tải hóa đơn từ cổng thuế mỗi ngày: bật ở trang Tải từ cổng thuế; hết phiên thì Việc cần làm nhắc đăng nhập.",
+  "Tự nhận ra dữ liệu của bản cũ (bản chạy từ thư mục, ví dụ ổ E) chưa chuyển sang bản cài: trang chủ báo, bấm Xem và chuyển sang.",
+  "Cài đặt chung → Chuyển dữ liệu bản cũ: chọn công ty cần chuyển. Gộp theo mã số thuế, công ty đã có chỉ thêm phần còn thiếu, không ghi đè; tự sao lưu trước khi chuyển; file cũ không bị sửa.",
+  "Sao lưu toàn bộ ra chỗ khác: gói hết dữ liệu (sổ mọi công ty, mẫu HTKK, file đã xuất, cài đặt, key) thành một file .zip, lưu vào thư mục tự chọn (USB, ổ D, Google Drive). Có nút Chọn thư mục…, máy nhớ thư mục cho lần sau."
  ],
- "chu_ky": "GAFYSqR5UlYYF7VsM1CIrBL1DhJ06EI7sHzYZoeCMpMXeoeRSLUuVBHOED6xaW_p70Z5IMXMU7KLrIq6t55xWoosa_IUSgI_az0SJoJNi4Eo02IdKoAa050NTNy4vOiGsW9Tcrm9MnKbXN92_BChqAEmIvUNm2z-ybnUayQHDzkhRFoVFcgTS4ctF96vemMjXF8C3gS6_-2bCi984JJ4DnIaKVUXee1viS17EbHA9hPrLWm34MQ3gtSrq_AVkduQaBi4KgGjgotazG-hOMidhf8TOmCvHZvN2jmAMDVZA47qZxjRgJJSTNHWzqMtoqcDOdeHWt9VrGpWvMA3akCGoA"
+ "chu_ky": "ZM76rZ2-RSn6jXJXHnU3LPjj9XXN6jnGrzcDFUsD9tXs3J027v0OPC2odEtsx-aLTH7P2_CKq6vfm0rskhHhWdx40s-wonZlY9wmYLJu8MhKePCBXItBMTUQDsy_LvJgSHM3G46wKuOYj521m8SkkBIs3kACDyD3DqcPMDwxy-VU_wO0gCiJZGZYAwkjGxQvYvpIK3h3g8sLelHP84Dx0uUQGJJjpzUokEhupv9aV92bIMnaZaDmKLYwU7tDIGXWH8m8jm63xM6pjrHIFdtfi41nRdw4_2sCZpiTSV0PA4M33FQQyFB86lmfcyNduAmcPr9T1NBopEeZhqAqbQFZ7w"
 }
