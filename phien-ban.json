@@ -1,18 +1,12 @@
 {
- "phien_ban": "5.4",
- "ngay": "2026-11-25",
- "tep": "cap-nhat/so-ke-toan-5.4.zip",
- "sha256": "23f9e41c5b43333937c6003635ae1d4f4d884cdc3e4c3b074d0dde97b1df1db0",
- "kich_thuoc": 271457,
+ "phien_ban": "5.4.1",
+ "ngay": "2026-11-27",
+ "tep": "cap-nhat/so-ke-toan-5.4.1.zip",
+ "sha256": "b558d794f1ba04109b855e4c6e24d50c88cdc72632bc0e7cdcc17dd3d9ac73e0",
+ "kich_thuoc": 271841,
  "ghi_chu": [
-  "Tên mới iFix Kế toán. Giao diện theo phân hệ: mỗi phân hệ có sơ đồ quy trình; bảng điều khiển mới có chỉ số sức khỏe tài chính; nút Tạo mới và ô tìm kiếm trên thanh trên cùng.",
-  "Các gói bản quyền: Cơ bản, Đầy đủ, Nhiều công ty. Phân hệ ngoài gói được ẩn. Nâng gói hoặc gia hạn chỉ cần nhập key mới; key cũ vẫn dùng được.",
-  "Chọn chế độ kế toán cho từng công ty: TT133, TT99 (thay TT200), TT58 (doanh nghiệp siêu nhỏ), TT152 (hộ kinh doanh). Có Sổ theo thông tư (S1a-HKD..., S1-DNSN...) tự tính thuế theo tỷ lệ trên doanh thu, và báo cáo kết quả kinh doanh B02-DN.",
-  "Khế ước vay: lịch trả gốc, lãi; ghi sổ nhận tiền vay và từng kỳ trả; nhắc kỳ đến hạn.",
-  "Hợp đồng mua, bán: tự gắn hóa đơn theo hợp đồng, theo dõi số đã thanh toán, nhắc hợp đồng sắp hết hạn.",
-  "Giá thành: tập hợp chi phí theo công trình, sản phẩm, đơn hàng; phân bổ chi phí chung; thẻ tính giá thành; kết chuyển giá vốn.",
-  "Trợ lý AI (gói Đầy đủ): chọn Claude, ChatGPT, Gemini, DeepSeek bằng mã API riêng hoặc AI trên máy (Ollama, LM Studio); gợi ý tài khoản cho hóa đơn và sao kê; hỏi đáp tiếng Việt trên sổ; đọc hóa đơn PDF, ảnh; soát sổ trước khi khóa sổ; dự báo dòng tiền 3 tháng; soạn tin nhắc nợ.",
-  "Tải hóa đơn từ cổng thuế dùng địa chỉ mới của Tổng cục Thuế."
+  "Sửa tải hóa đơn từ cổng thuế: dùng địa chỉ mới của cổng hoadondientu, hết lỗi \"Truy vấn không hợp lệ\".",
+  "Chọn ngày quá hôm nay thì tự lùi về hôm nay. Tháng nào cổng từ chối thì chỉ báo tháng đó, các tháng khác vẫn tải và lưu."
  ],
- "chu_ky": "PlivTh7WEvnlEMhwJ1qhdZ25E8rfq-sraDnHh-DwECBazqBLk5AJW9MDVn_Qwj6cQufVMRU97AKuF0SSbftvj93FoIx9EOwdG3Iqw1hnIPrsZ1PFNC4FWLLn3-13DrMYmaBHR6-7X5ywRWccHqD5QCGW6rsUWcobWWa7KmgA0S4oenPKCki4WO2QOtOSJW1qOo_0K4DTmUb0isGNFyD5SXhxYCwnLZoyNwm2YjV1oea3004RU8f1GaRI4oOl5N2HfMsMGJuKt6lWQxTjgooTJQMCFA-jnE3AGhDC6yK2OYs23YAKvfJBIxKATBpDLB7qwgC-QhnFcbylJ_RkW8PH1g"
+ "chu_ky": "ebOWcpEnXPIciDpDpT9XbjwQWxTGgPq3rxNdlN-lzU-dxblMQh-Wynxrj8MJie8Cu8GjbhNEi9rnnaMd9gP-QlP-2SilJSi60glvjVshEMic4ahxkh9BjmaJKxdG-_mbJtOYsYnBpwJA7tk3syhwueAd3RPXcN1ZC1v3Fku53mtw5-gvC8DBdiqiw7W0eLTEAuHZS6LcDlh0YI7uY-UJoHf3waFaUax4W2drm4kUWqcKq1hp_jHH_CDiMPNXu3EGg789WP-vGNcBh5F7oWvw6r4AsNVBh59ZEvqPaZ32oia1Y9iSMJT2QECkJCkiWq9Kgr29mTH_REPYyULByCLL9w"
 }
