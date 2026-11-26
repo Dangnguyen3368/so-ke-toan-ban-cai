@@ -1,12 +1,11 @@
 {
- "phien_ban": "5.4.5",
+ "phien_ban": "5.4.6",
  "ngay": "2026-11-27",
- "tep": "cap-nhat/so-ke-toan-5.4.5.zip",
- "sha256": "0f7318b408c5dae84515efc2f1afa7934b6764ef3819198c0eab19d3b61e56b3",
- "kich_thuoc": 292683,
+ "tep": "cap-nhat/so-ke-toan-5.4.6.zip",
+ "sha256": "2001bf93efc4bfb9b5559dd47a59a34b8f7e8002816f9c0a4aca2aa40ea14519",
+ "kich_thuoc": 293562,
  "ghi_chu": [
-  "Gửi sổ một công ty sang máy khác: Cài đặt chung → Chuyển dữ liệu → Xuất riêng một công ty ra file .zip (không kèm công ty khác, không kèm key). Máy nhận chọn file .zip ở mục Nhập từ file, không cần giải nén.",
-  "Trang Hóa đơn mở sẵn năm có hóa đơn mới nhất (trước đây mở năm có chứng từ gần nhất, nên hóa đơn năm mới tải về chưa ghi sổ trông như trống)."
+  "Nút Chọn thư mục… / Chọn file… (hộp thoại Windows) ở Sao lưu toàn bộ, Thư mục sao lưu ngoài, Xuất riêng một công ty và Nhập từ file: không phải gõ đường dẫn tay."
  ],
- "chu_ky": "ndDt0aEtl8Jn7tv1gT6qtiYoP3EdRV-3nLufQFo_L7q3FDFtqLXROmOqS7y-OHVIX64jmAq9OJbBTu23-do7FWmEOkB921qAC_enheeXSD8iivbRrP01klHBg2DVd13JCoJMEHvSSNWlr95nsKu5Waa2d8L4F8qYUJWw6-g-QDLHbSNzZQiMmzMoV3dA_nKiEKq7hbyDbtXKxu7FsvpYnonfT6K2vwr9v9VxpcYFOUh3dnHjr4nOgkA5yxcaQgGwdBJansFbVj6nwnQQR-yQ6DsAd2udjWmwhd6C4iZ8GuzZF2eCJUYIDa9c9PiT_tRMHvZquRxbuD6Lh_D4ZN_tQQ"
+ "chu_ky": "gPOX67fAEaykfY29k5D_sLYLseE3BYUPVLukhGlu0UgrTgLrgFb3TyfYd80hcn8Lmc9vMBmC1JXuYh7JNZUFpLzlIYgSVpRrWDfefzu5QwgOF90WYTPcyYVzV8hMgs1ozaUpIQRICUe4L4ZhDwQ6-Iwe0MRGB4PYhiCGoOPo0CiOypayVmHQKWngxn-9iCfXsHh_KHT7sL0VbtnZXYKkzJiDqZGOia43dvsKTv8BSjYV1Zv5W_Rh5lSJbPArBR7Ma6AaX1Ww5KWAfH7KUIrRE7g9Y1GH1Csbkac9hSjx3UMgXESqAlUbV0p86yg38rG4F6GSImKivpqCOmgwbk1bIw"
 }
